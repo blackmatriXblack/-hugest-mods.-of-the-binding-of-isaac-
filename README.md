@@ -1,5 +1,9 @@
 The Basement of the Soul: A Love Letter to The Binding of Isaac
 
+
+
+<img width="1266" height="585" alt="IMG_2588" src="https://github.com/user-attachments/assets/a4f4ec91-0e55-4cdc-9a80-d8f73a2801d8" />
+
 It starts in a basement. Not the kind with a pool table and a forgotten treadmill, but the kind that exists beneath the floorboards of a child’s mind. I first met Isaac on a rainy Tuesday, the kind of day where the world outside shrinks to a gray, wet rectangle. I’d heard the warnings: “It’s gross.” “It’s too dark.” “It’s just poop jokes and crying.” I bought it anyway, because sometimes a part of you recognizes a piece of art that was made by a kindred, broken spirit before you’ve even pressed start.
 
 And that’s the first thing I loved: its absolute refusal to be palatable. In a world of focus-tested, sanitized power fantasies, Isaac is a raw, weeping nerve. You are not a space marine. You are not a chosen hero with a legendary sword. You are a naked, trembling child. Your weapon is your tears. That’s it. You fire projectiles of your own profound sadness at horrors that are literal manifestations of abuse, neglect, and religious trauma. No other game so perfectly fuses its core mechanic with its thematic heart. To play Isaac is to weaponize your own pain, to turn the very thing that makes you weak into the only tool you have to survive. I’m not a kid anymore, not even close, but that core idea—that you can take the deepest, most terrifying parts of yourself and forge them into something that fights back—hit me in a place I didn’t know a game could reach.
