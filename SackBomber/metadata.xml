@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>SackBomber</name>
+    <id>3773201045</id>
+    <description>Sacks (Type=59) explode into 6 bombs on death instead of spawning spiders, turning them into walking explosives.</description>
+    <version>1.0</version>
+    <directory>SackBomber</directory>
+</metadata>

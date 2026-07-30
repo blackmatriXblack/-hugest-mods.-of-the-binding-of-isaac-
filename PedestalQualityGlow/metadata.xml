@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PedestalQualityGlow</name>
+    <id>3773201110</id>
+    <description>Item pedestals glow with color based on quality (Q0=gray, Q1=white, Q2=blue, Q3=purple, Q4=gold).</description>
+    <version>1.0</version>
+    <directory>PedestalQualityGlow</directory>
+</metadata>

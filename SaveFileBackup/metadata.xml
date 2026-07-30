@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>SaveFileBackup</name>
+    <id>3773201501</id>
+    <description>Auto-backup save file data every floor transition</description>
+    <version>1.0</version>
+    <directory>SaveFileBackup</directory>
+</metadata>

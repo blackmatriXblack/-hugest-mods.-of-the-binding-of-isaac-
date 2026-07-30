@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PostNPCDeathNova</name>
+    <id>3773201095</id>
+    <description>MC_POST_NPC_DEATH — Dead enemies fire 4 homing tears in cardinal directions. Uses Isaac.Spawn with EntityType.ENTITY_TEAR.</description>
+    <version>1.0</version>
+    <directory>PostNPCDeathNova</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PickupCollisionBonus</name>
+    <id>3773201088</id>
+    <description>10% chance pickup gives double value (coins 2x, hearts heal 2x).</description>
+    <version>1.0</version>
+    <directory>PickupCollisionBonus</directory>
+</metadata>

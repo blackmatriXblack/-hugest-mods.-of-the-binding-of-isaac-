@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BerserkEndExplosion</name>
+    <id>3773201108</id>
+    <description>MC_POST_BERSERK — When berserk ends, spawn a large explosion at player position dealing 200 damage to all enemies nearby.</description>
+    <version>1.0</version>
+    <directory>BerserkEndExplosion</directory>
+</metadata>

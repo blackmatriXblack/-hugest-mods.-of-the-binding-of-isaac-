@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ItemPickupFanfare</name>
+    <id>3773202202</id>
+    <description>Picking up items shows item name in large text with star particles!</description>
+    <version>1.0</version>
+    <directory>ItemPickupFanfare</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>MinimapFullReveal</name>
+    <id>3773201128</id>
+    <description>Minimap shows all rooms including secret rooms (mapped, not revealed). Uses minimap API.</description>
+    <version>1.0</version>
+    <directory>MinimapFullReveal</directory>
+</metadata>

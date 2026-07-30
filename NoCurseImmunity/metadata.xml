@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>No Curse Immunity</name>
+    <directory>nocurseimmunity</directory>
+    <id>37732000014</id>
+    <description>Removes all curses on level enter and continuously strips any new curses that appear.</description>
+    <version>1.0</version>
+    <visibility>public</visibility>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>HangerGrab</name>
+    <id>3773201207</id>
+    <description>Hanger slowly pulls the player toward it with gravitational force</description>
+    <version>1.0</version>
+    <directory>HangerGrab</directory>
+</metadata>

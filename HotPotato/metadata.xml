@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Hot Potato</name>
+    <id>3773202157</id>
+    <description>Active item automatically uses itself every 10 seconds if charged</description>
+    <version>1.0</version>
+    <directory>HotPotato</directory>
+</metadata>

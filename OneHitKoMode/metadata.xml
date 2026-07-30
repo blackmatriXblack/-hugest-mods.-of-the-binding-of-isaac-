@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>OneHitKoMode</name>
+    <id>3773201329</id>
+    <description>Player dies in one hit regardless of HP (hardcore challenge mode)</description>
+    <version>1.0</version>
+    <directory>OneHitKoMode</directory>
+</metadata>

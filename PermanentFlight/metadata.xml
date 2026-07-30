@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Permanent Flight</name>
+    <directory>permanentflight</directory>
+    <id>3773200005</id>
+    <description>Permanent flight for the entire run. Cross any gap, avoid any ground hazard!</description>
+    <version>1.0</version>
+    <visibility>public</visibility>
+</metadata>

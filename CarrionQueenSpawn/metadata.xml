@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Carrion Queen Spawn Surge</name>
+    <id>3773201507</id>
+    <description>Carrion Queen spawns 2 extra red poops per attack wave, escalating the threat.</description>
+    <version>1.0</version>
+    <directory>CarrionQueenSpawn</directory>
+</metadata>

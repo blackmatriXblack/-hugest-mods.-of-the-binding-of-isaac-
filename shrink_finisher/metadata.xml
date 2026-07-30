@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Shrink Finisher</name>
+    <id>3773202225</id>
+    <description>Enemies shrunk below 20% size are instantly killed</description>
+    <version>1.0</version>
+    <directory>shrink_finisher</directory>
+</metadata>

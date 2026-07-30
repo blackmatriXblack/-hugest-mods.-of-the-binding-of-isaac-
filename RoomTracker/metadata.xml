@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Room Tracker</name>
+    <directory>roomtracker</directory>
+    <id>37732000019</id>
+    <description>Displays current room type name and tracks how many rooms you have visited this floor.</description>
+    <version>1.0</version>
+    <visibility>public</visibility>
+</metadata>

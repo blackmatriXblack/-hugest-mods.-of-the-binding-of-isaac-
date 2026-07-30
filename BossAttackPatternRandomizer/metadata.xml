@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BossAttackPatternRandomizer</name>
+    <id>3773200146</id>
+    <description>On boss room entry, bosses get random EntityFlags to change attack patterns.</description>
+    <version>1.0</version>
+    <directory>BossAttackPatternRandomizer</directory>
+</metadata>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>WorldToScreenHUD</name>
+    <id>3773200088</id>
+    <directory>WorldToScreenHUD</directory>
+    <description>Draw 'You are here!' text near the player using world-to-screen coordinates</description>
+    <version>1.0</version>
+    <visibility>1</visibility>
+</metadata>

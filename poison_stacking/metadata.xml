@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Poison Stacking</name>
+    <id>3773202219</id>
+    <description>Poison effect stacks up to 5 times, each stack adds +20% tick damage</description>
+    <version>1.0</version>
+    <directory>poison_stacking</directory>
+</metadata>

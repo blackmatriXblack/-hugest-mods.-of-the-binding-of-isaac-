@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>RoomAliveEnemyCountDisplay</name>
+    <id>3773200138</id>
+    <description>Displays "Enemies Alive: X" on the HUD during gameplay.</description>
+    <version>1.0</version>
+    <directory>RoomAliveEnemyCountDisplay</directory>
+</metadata>

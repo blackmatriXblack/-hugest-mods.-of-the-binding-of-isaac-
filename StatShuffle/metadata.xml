@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Stat Shuffle</name>
+    <id>3773202163</id>
+    <description>Player stats shuffle randomly every 30 seconds</description>
+    <version>1.0</version>
+    <directory>StatShuffle</directory>
+</metadata>

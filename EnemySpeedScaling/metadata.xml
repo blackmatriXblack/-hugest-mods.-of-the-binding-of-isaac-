@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemySpeedScaling</name>
+    <id>3773200120</id>
+    <description>Enemy speed increases by 20% per chapter of the floor.</description>
+    <version>1.0</version>
+    <directory>EnemySpeedScaling</directory>
+</metadata>

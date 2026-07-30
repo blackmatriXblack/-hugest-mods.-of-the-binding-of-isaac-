@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Active Item Only Challenge</name>
+    <id>3773202147</id>
+    <description>Active item charges fully every 3 seconds but tears deal zero damage</description>
+    <version>1.0</version>
+    <directory>ActiveItemOnlyChallenge</directory>
+</metadata>

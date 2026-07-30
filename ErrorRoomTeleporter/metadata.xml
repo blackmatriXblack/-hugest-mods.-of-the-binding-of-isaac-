@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Error Room Teleporter</name>
+    <id>3773201361</id>
+    <description>10% chance per room entry to be teleported to I AM ERROR room!</description>
+    <version>1.0</version>
+    <directory>ErrorRoomTeleporter</directory>
+</metadata>

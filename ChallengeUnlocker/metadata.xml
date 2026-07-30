@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ChallengeUnlocker</name>
+    <id>3773201131</id>
+    <description>List all challenges on screen with completion status. Toggle with C key.</description>
+    <version>1.0</version>
+    <directory>ChallengeUnlocker</directory>
+</metadata>

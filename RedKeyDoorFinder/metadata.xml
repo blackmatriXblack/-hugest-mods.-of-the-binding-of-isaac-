@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>RedKeyDoorFinder</name>
+    <id>3773201151</id>
+    <description>Red Key outlines on minimap show which walls have special rooms behind them. MC_POST_NEW_ROOM.</description>
+    <version>1.0</version>
+    <directory>RedKeyDoorFinder</directory>
+</metadata>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>TearUpdateMod</name>
+    <id>3773200098</id>
+    <directory>TearUpdateMod</directory>
+    <description>Boost tear velocity by 2% per frame</description>
+    <version>1.0</version>
+    <visibility>1</visibility>
+</metadata>

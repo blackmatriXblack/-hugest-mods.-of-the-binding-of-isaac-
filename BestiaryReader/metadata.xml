@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BestiaryReader</name>
+    <id>3773201133</id>
+    <description>When hitting an enemy, display their bestiary entry (name, HP, damage).</description>
+    <version>1.0</version>
+    <directory>BestiaryReader</directory>
+</metadata>

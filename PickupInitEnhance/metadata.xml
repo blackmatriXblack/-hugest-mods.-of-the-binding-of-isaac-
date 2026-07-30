@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PickupInitEnhance</name>
+    <id>3773201086</id>
+    <description>All spawned pickups get a sparkle visual effect with bright tint.</description>
+    <version>1.0</version>
+    <directory>PickupInitEnhance</directory>
+</metadata>

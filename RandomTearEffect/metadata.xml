@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>RandomTearEffect</name>
+    <id>3773201330</id>
+    <description>Each tear fired has a random effect (homing, piercing, explosive, poison, etc.)</description>
+    <version>1.0</version>
+    <directory>RandomTearEffect</directory>
+</metadata>

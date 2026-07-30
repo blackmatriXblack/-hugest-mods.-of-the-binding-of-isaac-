@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>GusherPush</name>
+    <id>3773201232</id>
+    <description>Gusher pushes player away with a knockback wave every 6 seconds</description>
+    <version>1.0</version>
+    <directory>GusherPush</directory>
+</metadata>

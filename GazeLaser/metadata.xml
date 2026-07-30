@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>GazeLaser</name>
+    <id>3773202035</id>
+    <description>Gaze enemy fires continuous tracking laser that follows player</description>
+    <version>1.0</version>
+    <directory>GazeLaser</directory>
+</metadata>

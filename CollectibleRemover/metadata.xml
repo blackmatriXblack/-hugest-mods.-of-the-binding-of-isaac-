@@ -1,0 +1,9 @@
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;metadata&gt;
+  &lt;name&gt;CollectibleRemover&lt;/name&gt;
+  &lt;directory&gt;CollectibleRemover&lt;/directory&gt;
+  &lt;id&gt;3773200152&lt;/id&gt;
+  &lt;description&gt;Removes Sad Onion if held&lt;/description&gt;
+  &lt;version&gt;1.0&lt;/version&gt;
+  &lt;visibility&gt;public&lt;/visibility&gt;
+&lt;/metadata&gt;

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyExplodeOnDeath</name>
+    <id>3773200127</id>
+    <description>40% chance enemies deal 30 damage to nearby enemies (<100 dist) on death.</description>
+    <version>1.0</version>
+    <directory>EnemyExplodeOnDeath</directory>
+</metadata>

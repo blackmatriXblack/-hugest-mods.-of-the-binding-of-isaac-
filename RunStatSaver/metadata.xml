@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <id>3773200058</id>
+  <name>RunStatSaver</name>
+  <directory>RunStatSaver</directory>
+  <description>Saves kills and coins across runs using mod save data.</description>
+  <version>1.0</version>
+</metadata>

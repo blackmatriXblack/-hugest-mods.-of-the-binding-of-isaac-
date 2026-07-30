@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ItemPoolShuffler</name>
+    <id>3773201109</id>
+    <description>Each floor, shuffle all item pools — items come from random pools.</description>
+    <version>1.0</version>
+    <directory>ItemPoolShuffler</directory>
+</metadata>

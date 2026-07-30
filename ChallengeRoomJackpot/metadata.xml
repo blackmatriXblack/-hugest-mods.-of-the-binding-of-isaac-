@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ChallengeRoomJackpot</name>
+    <id>3773201113</id>
+    <description>Challenge rooms contain 3 items from boss pool on clear instead of normal reward.</description>
+    <version>1.0</version>
+    <directory>ChallengeRoomJackpot</directory>
+</metadata>

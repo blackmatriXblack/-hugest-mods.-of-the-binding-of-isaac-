@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BombPickupCluster</name>
+    <id>3773201123</id>
+    <description>Bomb pickups spawn in clusters of 3 instead of 1.</description>
+    <version>1.0</version>
+    <directory>BombPickupCluster</directory>
+</metadata>

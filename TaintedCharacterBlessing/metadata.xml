@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>TaintedCharacterBlessing</name>
+    <id>3773201145</id>
+    <description>All Tainted characters start with +1 damage and +0.5 speed.</description>
+    <version>1.0</version>
+    <directory>TaintedCharacterBlessing</directory>
+</metadata>

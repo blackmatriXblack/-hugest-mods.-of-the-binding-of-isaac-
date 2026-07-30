@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>TearRateDisplay</name>
+    <id>3773201471</id>
+    <description>Show tear delay as a numeric value and fire rate bar on screen</description>
+    <version>1.0</version>
+    <directory>TearRateDisplay</directory>
+</metadata>

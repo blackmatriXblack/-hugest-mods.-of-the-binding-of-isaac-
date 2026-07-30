@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyCloneOnHit</name>
+    <id>3773200131</id>
+    <description>15% chance when an enemy takes damage, a clone spawns at a random offset.</description>
+    <version>1.0</version>
+    <directory>EnemyCloneOnHit</directory>
+</metadata>

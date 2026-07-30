@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ProjectileUpdateMod</name>
+    <id>3773200099</id>
+    <directory>ProjectileUpdateMod</directory>
+    <description>Accelerate projectiles by 2% per frame</description>
+    <version>1.0</version>
+    <visibility>1</visibility>
+</metadata>

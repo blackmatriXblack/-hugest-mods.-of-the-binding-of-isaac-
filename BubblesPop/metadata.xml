@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BubblesPop</name>
+    <id>3773201225</id>
+    <description>Bubbles enemy pops into 3 small drifting bubbles on death that damage the player</description>
+    <version>1.0</version>
+    <directory>BubblesPop</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Boss Rush Mode</name>
+    <id>3773202171</id>
+    <description>Every room is a mini boss rush — 2 boss enemies spawn per room</description>
+    <version>1.0</version>
+    <directory>BossRushMode</directory>
+</metadata>

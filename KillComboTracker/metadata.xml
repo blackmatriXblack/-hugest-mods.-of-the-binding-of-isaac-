@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>KillComboTracker</name>
+    <id>3773201480</id>
+    <description>Track kill streaks with temporary damage bonuses every 10 kills</description>
+    <version>1.0</version>
+    <directory>KillComboTracker</directory>
+</metadata>

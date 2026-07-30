@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ActiveItemCooldownBar</name>
+    <id>3773202207</id>
+    <description>Active item shows a cooldown timer bar when used — not just charge percentage!</description>
+    <version>1.0</version>
+    <directory>ActiveItemCooldownBar</directory>
+</metadata>

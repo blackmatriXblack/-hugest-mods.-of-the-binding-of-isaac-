@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>MulligoonSpawner</name>
+    <id>3773201377</id>
+    <description>Mulligoon enemies explode into 3 Mulligans on death, overwhelming the room</description>
+    <version>1.0</version>
+    <directory>MulligoonSpawner</directory>
+</metadata>

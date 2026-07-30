@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>MusicTrackDisplay</name>
+    <id>3773201137</id>
+    <description>Display current music track name on screen. Uses Music():GetCurrentMusicTrack().</description>
+    <version>1.0</version>
+    <directory>MusicTrackDisplay</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BombPullEnemies</name>
+    <id>3773201448</id>
+    <description>Bombs pull enemies toward them before exploding with an implosion effect.</description>
+    <version>1.0</version>
+    <directory>BombPullEnemies</directory>
+</metadata>

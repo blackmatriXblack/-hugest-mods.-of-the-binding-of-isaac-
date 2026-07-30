@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>TearColorMood</name>
+    <id>3773201451</id>
+    <description>Tear color changes based on player's HP: green=full, yellow=half, red=low.</description>
+    <version>1.0</version>
+    <directory>TearColorMood</directory>
+</metadata>

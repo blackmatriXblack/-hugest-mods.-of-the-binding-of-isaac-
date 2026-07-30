@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BossPhaseShift</name>
+    <id>3773200115</id>
+    <description>Bosses toggle visibility every ~6 seconds (180 frames).</description>
+    <version>1.0</version>
+    <directory>BossPhaseShift</directory>
+</metadata>

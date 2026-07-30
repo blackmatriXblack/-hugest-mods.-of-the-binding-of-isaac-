@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>DiceRoomRestock</name>
+    <id>3773201325</id>
+    <description>Dice rooms restock all floor item pedestals when the dice face is activated</description>
+    <version>1.0</version>
+    <directory>DiceRoomRestock</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Sacrifice Blessing Stack</name>
+    <id>3773202245</id>
+    <description>Sacrifice room blessings persist for the entire run instead of just the current floor</description>
+    <version>1.0</version>
+    <directory>sacrifice_blessing_stack</directory>
+</metadata>

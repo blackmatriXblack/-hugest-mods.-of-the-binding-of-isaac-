@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>TaintedCainRecipe</name>
+    <id>3773201400</id>
+    <description>Tainted Cain: Bag of Crafting shows the possible recipe result as floating text hint.</description>
+    <version>1.0</version>
+    <directory>TaintedCainRecipe</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>SpiderWebTrap</name>
+    <id>3773201010</id>
+    <description>Spiders slow player by 40% when within 50 distance.</description>
+    <version>1.0</version>
+    <directory>SpiderWebTrap</directory>
+</metadata>

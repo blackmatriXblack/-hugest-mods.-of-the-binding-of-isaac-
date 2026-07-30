@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PostCurseEvalReward</name>
+    <id>3773201390</id>
+    <description>If Curse of the Lost is active, reveals map for 5 seconds using MC_POST_CURSE_EVAL.</description>
+    <version>1.0</version>
+    <directory>PostCurseEvalReward</directory>
+</metadata>

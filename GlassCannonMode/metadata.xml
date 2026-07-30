@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Glass Cannon Mode</name>
+    <id>3773202178</id>
+    <description>Player has 1 HP max but deals 10x damage — cannot gain HP</description>
+    <version>1.0</version>
+    <directory>GlassCannonMode</directory>
+</metadata>

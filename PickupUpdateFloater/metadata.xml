@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PickupUpdateFloater</name>
+    <id>3773201098</id>
+    <description>MC_POST_PICKUP_UPDATE — Pickups bob up and down with a sine wave animation. Modify Position offset.</description>
+    <version>1.0</version>
+    <directory>PickupUpdateFloater</directory>
+</metadata>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Enemy Death Drops</name>
+    <directory>enemydeathdrops_repentance</directory>
+    <id>3773217411</id>
+    <description>Every enemy killed drops items! Normal enemies drop trinkets, cards, pickups. Champions drop better loot. Bosses drop 2-4 collectibles. Turn the tide of battle with every kill!</description>
+    <version>1.1</version>
+    <visibility>public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>

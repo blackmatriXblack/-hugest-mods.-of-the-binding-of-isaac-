@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PostSacrificeBlessing</name>
+    <id>3773201387</id>
+    <description>30% chance to spawn a random card after sacrifice and displays blessing tier using MC_POST_SACRIFICE.</description>
+    <version>1.0</version>
+    <directory>PostSacrificeBlessing</directory>
+</metadata>

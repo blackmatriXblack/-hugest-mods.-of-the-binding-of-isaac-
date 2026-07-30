@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>DipArmy</name>
+    <id>3773201046</id>
+    <description>Dips (Type=51) multiply into 3 more Dips after surviving 10 seconds, overwhelming the player if not killed quickly.</description>
+    <version>1.0</version>
+    <directory>DipArmy</directory>
+</metadata>

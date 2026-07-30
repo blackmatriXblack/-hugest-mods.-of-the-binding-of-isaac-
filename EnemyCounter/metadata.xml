@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyCounter</name>
+    <id>3773201474</id>
+    <description>Show how many enemies are currently alive in the room</description>
+    <version>1.0</version>
+    <directory>EnemyCounter</directory>
+</metadata>

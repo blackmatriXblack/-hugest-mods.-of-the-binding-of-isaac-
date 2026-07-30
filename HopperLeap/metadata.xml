@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>HopperLeap</name>
+    <id>3773202038</id>
+    <description>Hopper leaps toward player every 3s dealing AOE on landing</description>
+    <version>1.0</version>
+    <directory>HopperLeap</directory>
+</metadata>

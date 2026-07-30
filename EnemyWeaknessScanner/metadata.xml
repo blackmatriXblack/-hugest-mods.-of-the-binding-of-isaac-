@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyWeaknessScanner</name>
+    <id>3773200137</id>
+    <description>Displays "WEAK" in blue above enemies below 30% HP.</description>
+    <version>1.0</version>
+    <directory>EnemyWeaknessScanner</directory>
+</metadata>

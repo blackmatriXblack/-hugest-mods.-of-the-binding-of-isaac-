@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyFearAura</name>
+    <id>3773200108</id>
+    <description>Every 8 seconds, enemies within 150 range of the player get feared for 180 frames.</description>
+    <version>1.0</version>
+    <directory>EnemyFearAura</directory>
+</metadata>

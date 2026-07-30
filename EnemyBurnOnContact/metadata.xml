@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyBurnOnContact</name>
+    <id>3773200110</id>
+    <description>Enemies within 30 distance of the player get burned for 120 frames every frame.</description>
+    <version>1.0</version>
+    <directory>EnemyBurnOnContact</directory>
+</metadata>

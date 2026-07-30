@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>DataStorageDemo</name>
+    <id>3773201142</id>
+    <description>Track total damage dealt across ALL runs using mod data storage.</description>
+    <version>1.0</version>
+    <directory>DataStorageDemo</directory>
+</metadata>

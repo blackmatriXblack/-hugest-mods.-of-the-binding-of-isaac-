@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BossMinionSpawner</name>
+    <id>3773200116</id>
+    <description>Every 10 seconds in boss rooms, 2 attack flies spawn near the boss.</description>
+    <version>1.0</version>
+    <directory>BossMinionSpawner</directory>
+</metadata>

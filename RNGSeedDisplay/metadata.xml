@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>RNGSeedDisplay</name>
+    <id>3773201127</id>
+    <description>Display current run seed as HUD text. Also show seed-derived luck modifier.</description>
+    <version>1.0</version>
+    <directory>RNGSeedDisplay</directory>
+</metadata>

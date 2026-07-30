@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyConfusionCloud</name>
+    <id>3773200109</id>
+    <description>30% chance on room entry: all enemies get confused for 600 frames and attack each other.</description>
+    <version>1.0</version>
+    <directory>EnemyConfusionCloud</directory>
+</metadata>

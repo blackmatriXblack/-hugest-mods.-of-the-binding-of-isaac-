@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PostPlayerTriggerClear</name>
+    <id>3773201395</id>
+    <description>Drops a random trinket every 5 room clears using MC_POST_PLAYER_TRIGGER_ROOM_CLEAR.</description>
+    <version>1.0</version>
+    <directory>PostPlayerTriggerClear</directory>
+</metadata>

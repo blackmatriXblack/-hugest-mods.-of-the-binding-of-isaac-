@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyFreezeField</name>
+    <id>3773200111</id>
+    <description>All enemies are frozen solid for 300 frames upon entering a room.</description>
+    <version>1.0</version>
+    <directory>EnemyFreezeField</directory>
+</metadata>

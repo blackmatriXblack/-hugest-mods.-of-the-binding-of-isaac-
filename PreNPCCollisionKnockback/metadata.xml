@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PreNPCCollisionKnockback</name>
+    <id>3773201381</id>
+    <description>NPC contact damage pushes player away using MC_PRE_NPC_COLLISION for knockback.</description>
+    <version>1.0</version>
+    <directory>PreNPCCollisionKnockback</directory>
+</metadata>

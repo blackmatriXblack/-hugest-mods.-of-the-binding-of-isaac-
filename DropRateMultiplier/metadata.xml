@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Drop Rate Multiplier</name>
+    <directory>dropratemultiplier</directory>
+    <id>37732000013</id>
+    <description>Doubles enemy drop rates. Every enemy kill spawns extra hearts, coins, bombs, keys.</description>
+    <version>1.0</version>
+    <visibility>public</visibility>
+</metadata>

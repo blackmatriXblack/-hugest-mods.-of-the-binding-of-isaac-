@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyColorRandomizer</name>
+    <id>3773200119</id>
+    <description>Random color tint is applied to all spawned enemies.</description>
+    <version>1.0</version>
+    <directory>EnemyColorRandomizer</directory>
+</metadata>

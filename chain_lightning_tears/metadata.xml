@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Chain Lightning Tears</name>
+    <id>3773202218</id>
+    <description>Tears chain lightning to 2 nearby enemies dealing 50% damage per hop</description>
+    <version>1.0</version>
+    <directory>chain_lightning_tears</directory>
+</metadata>

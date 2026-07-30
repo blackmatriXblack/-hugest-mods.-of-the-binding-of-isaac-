@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>RoomCountSummary</name>
+    <id>3773201140</id>
+    <description>Show total rooms explored / total rooms on floor in HUD.</description>
+    <version>1.0</version>
+    <directory>RoomCountSummary</directory>
+</metadata>

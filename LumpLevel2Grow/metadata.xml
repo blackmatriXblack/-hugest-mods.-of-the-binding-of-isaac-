@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>LumpLevel2Grow</name>
+    <id>3773202047</id>
+    <description>Level 2 Lump grows in size over time gaining HP proportional to size</description>
+    <version>1.0</version>
+    <directory>LumpLevel2Grow</directory>
+</metadata>

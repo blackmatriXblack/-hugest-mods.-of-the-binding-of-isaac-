@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Execution Threshold</name>
+    <id>3773202240</id>
+    <description>Enemies below 10% HP take 5x damage — execution mechanic</description>
+    <version>1.0</version>
+    <directory>execution_threshold</directory>
+</metadata>

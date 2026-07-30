@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PreUseItemLog</name>
+    <id>3773201393</id>
+    <description>Displays floating item name text above player before using any active item via MC_PRE_USE_ITEM.</description>
+    <version>1.0</version>
+    <directory>PreUseItemLog</directory>
+</metadata>

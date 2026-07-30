@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyStreakRewards</name>
+    <id>3773200136</id>
+    <description>Every 10 consecutive enemy kills spawns a pedestal item.</description>
+    <version>1.0</version>
+    <directory>EnemyStreakRewards</directory>
+</metadata>

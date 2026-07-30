@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PortalSpawner</name>
+    <id>3773201050</id>
+    <description>Portals (Type=74) periodically spawn enemies from deeper floors, bringing Womb-tier enemies into the Basement.</description>
+    <version>1.0</version>
+    <directory>PortalSpawner</directory>
+</metadata>

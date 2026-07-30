@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyInvisibleAmbush</name>
+    <id>3773200130</id>
+    <description>Every 20 seconds, all enemies turn invisible for 3 seconds then reappear.</description>
+    <version>1.0</version>
+    <directory>EnemyInvisibleAmbush</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ConsoleCommandAlias</name>
+    <id>3773201504</id>
+    <description>Custom keybindings — press keys to execute console commands (e.g., K to restart)</description>
+    <version>1.0</version>
+    <directory>ConsoleCommandAlias</directory>
+</metadata>

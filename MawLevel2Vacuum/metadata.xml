@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>MawLevel2Vacuum</name>
+    <id>3773202048</id>
+    <description>Level 2 Maw creates a vacuum pulling player toward it</description>
+    <version>1.0</version>
+    <directory>MawLevel2Vacuum</directory>
+</metadata>

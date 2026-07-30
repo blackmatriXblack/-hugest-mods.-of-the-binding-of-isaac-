@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PostGridEntityStateChange</name>
+    <id>3773201396</id>
+    <description>When TNT barrel state changes, nearby enemies take 50% damage using MC_POST_GRID_ENTITY_STATE_CHANGE.</description>
+    <version>1.0</version>
+    <directory>PostGridEntityStateChange</directory>
+</metadata>

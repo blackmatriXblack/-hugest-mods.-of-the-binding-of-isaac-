@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>StoneEyeGaze</name>
+    <id>3773201049</id>
+    <description>Stone Eyes (Type=69) fire a brimstone laser that slowly tracks the player, forcing constant movement.</description>
+    <version>1.0</version>
+    <directory>StoneEyeGaze</directory>
+</metadata>

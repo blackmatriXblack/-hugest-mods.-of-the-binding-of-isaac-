@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ChestTreasureRoom</name>
+    <id>3773201318</id>
+    <description>The Chest spawns 6 treasure rooms instead of the default 4 with bonus items</description>
+    <version>1.0</version>
+    <directory>ChestTreasureRoom</directory>
+</metadata>

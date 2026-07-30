@@ -1,0 +1,9 @@
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;metadata&gt;
+  &lt;name&gt;KnifeUpdateMod&lt;/name&gt;
+  &lt;directory&gt;KnifeUpdateMod&lt;/directory&gt;
+  &lt;id&gt;3773200183&lt;/id&gt;
+  &lt;description&gt;Modifies Mom's Knife entity on update&lt;/description&gt;
+  &lt;version&gt;1.0&lt;/version&gt;
+  &lt;visibility&gt;public&lt;/visibility&gt;
+&lt;/metadata&gt;

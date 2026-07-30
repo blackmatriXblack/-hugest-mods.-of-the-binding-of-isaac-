@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <id>3773200059</id>
+  <name>RNGControl</name>
+  <directory>RNGControl</directory>
+  <description>Re-seeds the RNG to a fixed value on each new floor for predictable randomness.</description>
+  <version>1.0</version>
+</metadata>

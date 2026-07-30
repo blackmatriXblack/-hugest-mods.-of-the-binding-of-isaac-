@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>TaintedEveClot</name>
+    <id>3773201403</id>
+    <description>Tainted Eve: Clots regenerate 1 HP after 10 seconds if alive.</description>
+    <version>1.0</version>
+    <directory>TaintedEveClot</directory>
+</metadata>

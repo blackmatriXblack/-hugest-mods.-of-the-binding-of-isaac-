@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BabyRage</name>
+    <id>3773201042</id>
+    <description>Babies (Type=40) transform into a raging Devil Baby (Type=41) when their HP drops below 50%.</description>
+    <version>1.0</version>
+    <directory>BabyRage</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Drop Everything</name>
+    <id>3773202180</id>
+    <description>Player drops all held items on the floor when taking damage</description>
+    <version>1.0</version>
+    <directory>DropEverything</directory>
+</metadata>

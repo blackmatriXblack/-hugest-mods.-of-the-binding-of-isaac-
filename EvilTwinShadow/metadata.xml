@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EvilTwinShadow</name>
+    <id>3773202002</id>
+    <description>Evil Twin spawns a shadow copy of itself when player enters room</description>
+    <version>1.0</version>
+    <directory>EvilTwinShadow</directory>
+</metadata>

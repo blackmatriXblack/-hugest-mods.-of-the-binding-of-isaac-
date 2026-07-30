@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Boss Slayer</name>
+    <id>3773202233</id>
+    <description>Killing a boss without taking damage spawns a Devil Deal pedestal item</description>
+    <version>1.0</version>
+    <directory>boss_slayer</directory>
+</metadata>

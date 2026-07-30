@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PostStageLoadExtra</name>
+    <id>3773201394</id>
+    <description>Spawns 2 extra random room types on new stage load using MC_POST_STAGE_LOAD.</description>
+    <version>1.0</version>
+    <directory>PostStageLoadExtra</directory>
+</metadata>

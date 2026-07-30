@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>TearCollisionExplode</name>
+    <id>3773201083</id>
+    <description>Tears explode on hit dealing 10 splash damage in 80 radius.</description>
+    <version>1.0</version>
+    <directory>TearCollisionExplode</directory>
+</metadata>

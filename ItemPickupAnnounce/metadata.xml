@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ItemPickupAnnounce</name>
+    <id>3773201102</id>
+    <description>MC_POST_ITEM_PICKUP — When picking up items, display item name, description, and quality as large HUD text for 3 seconds.</description>
+    <version>1.0</version>
+    <directory>ItemPickupAnnounce</directory>
+</metadata>

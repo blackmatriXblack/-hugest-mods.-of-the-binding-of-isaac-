@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>LootHistory</name>
+    <id>3773201481</id>
+    <description>Show a scrolling list of last 5 items and pickups collected</description>
+    <version>1.0</version>
+    <directory>LootHistory</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>DamageTypeIndicator</name>
+    <id>3773201476</id>
+    <description>Briefly show what damage type you took when hit</description>
+    <version>1.0</version>
+    <directory>DamageTypeIndicator</directory>
+</metadata>

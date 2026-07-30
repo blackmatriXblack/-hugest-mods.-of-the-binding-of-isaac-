@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>TearCounterMod</name>
+    <id>3773201143</id>
+    <description>Count how many tears player has fired this run, display on HUD.</description>
+    <version>1.0</version>
+    <directory>TearCounterMod</directory>
+</metadata>

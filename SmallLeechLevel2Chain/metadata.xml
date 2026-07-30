@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>SmallLeechLevel2Chain</name>
+    <id>3773202065</id>
+    <description>Level 2 Small Leech chains between player and itself draining HP over time</description>
+    <version>1.0</version>
+    <directory>SmallLeechLevel2Chain</directory>
+</metadata>

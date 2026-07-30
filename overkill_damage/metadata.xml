@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Overkill Damage</name>
+    <id>3773202227</id>
+    <description>Excess damage on a killing blow splashes to nearby enemies</description>
+    <version>1.0</version>
+    <directory>overkill_damage</directory>
+</metadata>

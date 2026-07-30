@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PostPurchaseDiscount</name>
+    <id>3773201392</id>
+    <description>After buying any shop item, the next purchase is 25% off using MC_POST_PURCHASE.</description>
+    <version>1.0</version>
+    <directory>PostPurchaseDiscount</directory>
+</metadata>

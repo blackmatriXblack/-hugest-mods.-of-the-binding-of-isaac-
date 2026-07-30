@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Adrenaline Dodge</name>
+    <id>3773202242</id>
+    <description>Dodging an attack within 10 pixels grants +1 damage for 5 seconds</description>
+    <version>1.0</version>
+    <directory>adrenaline_dodge</directory>
+</metadata>

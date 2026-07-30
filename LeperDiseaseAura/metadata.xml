@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>LeperDiseaseAura</name>
+    <id>3773201222</id>
+    <description>Leper has a poison damage aura that applies green poison to nearby players</description>
+    <version>1.0</version>
+    <directory>LeperDiseaseAura</directory>
+</metadata>

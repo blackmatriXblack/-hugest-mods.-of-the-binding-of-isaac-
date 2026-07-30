@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>NPCCollisionPoison</name>
+    <id>3773201085</id>
+    <description>When enemies bump into each other, both get poisoned.</description>
+    <version>1.0</version>
+    <directory>NPCCollisionPoison</directory>
+</metadata>

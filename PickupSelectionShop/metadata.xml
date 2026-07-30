@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PickupSelectionShop</name>
+    <id>3773201099</id>
+    <description>MC_POST_PICKUP_SELECTION — When browsing shop items, highlight ones you can afford in green, unaffordable in red.</description>
+    <version>1.0</version>
+    <directory>PickupSelectionShop</directory>
+</metadata>

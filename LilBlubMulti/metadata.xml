@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Lil Blub Multi</name>
+    <id>3773202106</id>
+    <description>Lil Blub splits into 3 smaller blubs at death, bouncing independently.</description>
+    <version>1.0</version>
+    <directory>LilBlubMulti</directory>
+</metadata>

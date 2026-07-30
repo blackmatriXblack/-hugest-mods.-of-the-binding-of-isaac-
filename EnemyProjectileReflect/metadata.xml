@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyProjectileReflect</name>
+    <id>3773200132</id>
+    <description>When enemies take damage, they gain invincibility frames (EntityFlag 65536).</description>
+    <version>1.0</version>
+    <directory>EnemyProjectileReflect</directory>
+</metadata>

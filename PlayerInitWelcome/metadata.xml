@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PlayerInitWelcome</name>
+    <id>3773200095</id>
+    <directory>PlayerInitWelcome</directory>
+    <description>Welcome new player spawns with a debug message and 5 coins</description>
+    <version>1.0</version>
+    <visibility>1</visibility>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Soy Milk Buff</name>
+    <id>3773201463</id>
+    <description>Soy Milk (330) damage penalty reduced from -80% to -50%.</description>
+    <version>1.0</version>
+    <directory>SoyMilkBuff</directory>
+</metadata>

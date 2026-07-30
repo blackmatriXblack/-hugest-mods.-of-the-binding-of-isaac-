@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BanItemsHotkey</name>
+    <id>3773201337</id>
+    <description>Press B key to ban the nearest item pedestal from ever appearing again</description>
+    <version>1.0</version>
+    <directory>BanItemsHotkey</directory>
+</metadata>

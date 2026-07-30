@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PostPlayerDeathEvent</name>
+    <id>3773201388</id>
+    <description>Spawns a random trinket at death location for flavor using MC_POST_PLAYER_DEATH.</description>
+    <version>1.0</version>
+    <directory>PostPlayerDeathEvent</directory>
+</metadata>

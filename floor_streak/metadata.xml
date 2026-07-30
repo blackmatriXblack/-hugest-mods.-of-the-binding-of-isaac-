@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Floor Streak</name>
+    <id>3773202232</id>
+    <description>Clearing a floor without taking damage grants permanent +0.5 damage</description>
+    <version>1.0</version>
+    <directory>floor_streak</directory>
+</metadata>

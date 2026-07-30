@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>WizoobPhase</name>
+    <id>3773201211</id>
+    <description>Wizoob ghost periodically phases through walls and teleports near the player</description>
+    <version>1.0</version>
+    <directory>WizoobPhase</directory>
+</metadata>

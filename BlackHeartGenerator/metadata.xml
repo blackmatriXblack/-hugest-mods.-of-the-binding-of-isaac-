@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <id>3773200051</id>
+  <name>BlackHeartGenerator</name>
+  <directory>BlackHeartGenerator</directory>
+  <description>Spawns black hearts on enemy kills. Bosses guarantee 2 black hearts, regular enemies have 10% chance for 1.</description>
+  <version>1.0</version>
+</metadata>

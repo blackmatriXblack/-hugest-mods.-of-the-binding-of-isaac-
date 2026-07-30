@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <id>3773200056</id>
+  <name>DamageToHeal</name>
+  <directory>DamageToHeal</directory>
+  <description>Player heals 2 full hearts when taking damage, net healing from hits.</description>
+  <version>1.0</version>
+</metadata>

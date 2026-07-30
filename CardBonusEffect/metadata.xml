@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>CardBonusEffect</name>
+    <id>3773201076</id>
+    <description>Using any card also gives +0.5 damage for the room.</description>
+    <version>1.0</version>
+    <directory>CardBonusEffect</directory>
+</metadata>

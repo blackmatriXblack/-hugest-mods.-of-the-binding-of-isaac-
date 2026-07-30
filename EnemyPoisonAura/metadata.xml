@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyPoisonAura</name>
+    <id>3773200106</id>
+    <description>Every 5 seconds, all enemies in the room get 3 damage poison for 300 frames.</description>
+    <version>1.0</version>
+    <directory>EnemyPoisonAura</directory>
+</metadata>

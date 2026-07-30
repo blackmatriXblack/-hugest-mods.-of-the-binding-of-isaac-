@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EntityInspectorTool</name>
+    <id>3773201498</id>
+    <description>Press I near any entity to inspect it — show all properties: HP, damage, position, flags</description>
+    <version>1.0</version>
+    <directory>EntityInspectorTool</directory>
+</metadata>

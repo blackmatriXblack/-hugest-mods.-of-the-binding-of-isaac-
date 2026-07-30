@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>TaintedEdenRerollOnHit</name>
+    <id>3773201161</id>
+    <description>Tainted Eden has a small chance to reroll when taking damage (like normal Eden). MC_ENTITY_TAKE_DMG.</description>
+    <version>1.0</version>
+    <directory>TaintedEdenRerollOnHit</directory>
+</metadata>

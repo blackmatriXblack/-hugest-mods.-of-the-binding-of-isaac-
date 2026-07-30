@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Conquest Stormsplit</name>
+    <id>3773201510</id>
+    <description>Conquest's lightning attacks split into 3 smaller bolts that seek the player.</description>
+    <version>1.0</version>
+    <directory>ConquestLightning</directory>
+</metadata>

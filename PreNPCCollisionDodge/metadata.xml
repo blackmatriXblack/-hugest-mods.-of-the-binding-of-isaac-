@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PreNPCCollisionDodge</name>
+    <id>3773201094</id>
+    <description>MC_PRE_NPC_COLLISION — 15% chance enemies dodge player tears (become ghost briefly). Uses EntityCollisionClass.</description>
+    <version>1.0</version>
+    <directory>PreNPCCollisionDodge</directory>
+</metadata>

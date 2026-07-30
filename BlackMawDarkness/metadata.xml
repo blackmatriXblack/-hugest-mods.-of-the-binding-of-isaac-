@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BlackMawDarkness</name>
+    <id>3773201054</id>
+    <description>Black Maws (Type=55) darken the entire room when they spawn, applying a localized Curse of Darkness effect.</description>
+    <version>1.0</version>
+    <directory>BlackMawDarkness</directory>
+</metadata>

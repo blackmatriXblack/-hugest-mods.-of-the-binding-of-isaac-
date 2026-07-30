@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>TaintedCollectibleGlow</name>
+    <id>3773201156</id>
+    <description>Tainted-character-exclusive collectibles have a red glow visual. MC_POST_RENDER or MC_POST_ENTITY_SPAWN.</description>
+    <version>1.0</version>
+    <directory>TaintedCollectibleGlow</directory>
+</metadata>

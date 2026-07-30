@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ItemBanList</name>
+    <id>3773201489</id>
+    <description>Toggle ban list UI — select items to ban from all pools, persistent across runs</description>
+    <version>1.0</version>
+    <directory>ItemBanList</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BatteryOvercharge</name>
+    <id>3773201126</id>
+    <description>Battery pickups can overcharge — small batteries give 2 charges, big batteries give double charge.</description>
+    <version>1.0</version>
+    <directory>BatteryOvercharge</directory>
+</metadata>

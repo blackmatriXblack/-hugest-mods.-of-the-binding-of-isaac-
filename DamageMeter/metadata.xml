@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>DamageMeter</name>
+    <id>3773201470</id>
+    <description>Display a damage-per-second meter tracking damage dealt in the last 3 seconds</description>
+    <version>1.0</version>
+    <directory>DamageMeter</directory>
+</metadata>

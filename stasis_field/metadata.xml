@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Stasis Field</name>
+    <id>3773202226</id>
+    <description>Standing still for 2 seconds creates a field that slows nearby enemy projectiles</description>
+    <version>1.0</version>
+    <directory>stasis_field</directory>
+</metadata>

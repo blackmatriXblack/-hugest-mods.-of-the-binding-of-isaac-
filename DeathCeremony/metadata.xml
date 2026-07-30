@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>DeathCeremony</name>
+    <id>3773201081</id>
+    <description>On any death, spawn a random pickup at the death location.</description>
+    <version>1.0</version>
+    <directory>DeathCeremony</directory>
+</metadata>

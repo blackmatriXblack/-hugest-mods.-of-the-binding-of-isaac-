@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>RingWormCircle</name>
+    <id>3773201040</id>
+    <description>Ring Worms (Type=245) spin in a perfect circle around the room center, creating a dangerous rotating hazard.</description>
+    <version>1.0</version>
+    <directory>RingWormCircle</directory>
+</metadata>

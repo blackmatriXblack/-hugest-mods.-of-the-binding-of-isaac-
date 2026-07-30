@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Headshot Damage</name>
+    <id>3773202236</id>
+    <description>Tears hitting the enemy top half (above center) deal 1.5x damage</description>
+    <version>1.0</version>
+    <directory>headshot_damage</directory>
+</metadata>

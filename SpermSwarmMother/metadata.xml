@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>SpermSwarmMother</name>
+    <id>3773201364</id>
+    <description>Sperm enemies become swarm mothers, spawning 2 small sperms every 5 seconds and chasing in swarms</description>
+    <version>1.0</version>
+    <directory>SpermSwarmMother</directory>
+</metadata>

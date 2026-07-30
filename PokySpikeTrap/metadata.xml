@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PokySpikeTrap</name>
+    <id>3773201216</id>
+    <description>Poky leaves a spike trap behind every 5 seconds that damages player on touch</description>
+    <version>1.0</version>
+    <directory>PokySpikeTrap</directory>
+</metadata>

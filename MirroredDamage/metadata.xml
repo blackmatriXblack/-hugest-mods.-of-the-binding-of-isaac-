@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Mirrored Damage</name>
+    <id>3773202160</id>
+    <description>50% of damage dealt to enemies is reflected back to the player</description>
+    <version>1.0</version>
+    <directory>MirroredDamage</directory>
+</metadata>

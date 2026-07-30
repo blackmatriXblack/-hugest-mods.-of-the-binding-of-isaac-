@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>CritterReaction</name>
+    <id>3773202210</id>
+    <description>Enemies recoil and flinch when hit with velocity knockback boost!</description>
+    <version>1.0</version>
+    <directory>CritterReaction</directory>
+</metadata>

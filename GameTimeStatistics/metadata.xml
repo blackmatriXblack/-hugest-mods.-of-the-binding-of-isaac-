@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>GameTimeStatistics</name>
+    <id>3773201502</id>
+    <description>Post-game screen showing total time played, rooms cleared, tears fired, steps walked</description>
+    <version>1.0</version>
+    <directory>GameTimeStatistics</directory>
+</metadata>

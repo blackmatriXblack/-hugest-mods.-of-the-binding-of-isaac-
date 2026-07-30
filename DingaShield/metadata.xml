@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>DingaShield</name>
+    <id>3773201052</id>
+    <description>Dingas (Type=53) project an energy shield that blocks the first hit, breaking with visual feedback afterward.</description>
+    <version>1.0</version>
+    <directory>DingaShield</directory>
+</metadata>

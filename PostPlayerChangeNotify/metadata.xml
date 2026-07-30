@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PostPlayerChangeNotify</name>
+    <id>3773201383</id>
+    <description>Shows on-screen notification when switching between Forgotten body/soul or Lazarus forms using MC_POST_PLAYER_CHANGE.</description>
+    <version>1.0</version>
+    <directory>PostPlayerChangeNotify</directory>
+</metadata>

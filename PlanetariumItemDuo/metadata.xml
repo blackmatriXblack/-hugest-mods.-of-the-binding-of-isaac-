@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PlanetariumItemDuo</name>
+    <id>3773201152</id>
+    <description>Planetariums always contain 2 planetarium items to choose from. MC_POST_NEW_ROOM.</description>
+    <version>1.0</version>
+    <directory>PlanetariumItemDuo</directory>
+</metadata>

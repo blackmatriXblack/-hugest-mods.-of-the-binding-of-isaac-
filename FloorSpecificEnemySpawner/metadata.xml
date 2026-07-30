@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>FloorSpecificEnemySpawner</name>
+    <id>3773200147</id>
+    <description>Spawns 5 chapter-appropriate enemies at the player on each new level.</description>
+    <version>1.0</version>
+    <directory>FloorSpecificEnemySpawner</directory>
+</metadata>

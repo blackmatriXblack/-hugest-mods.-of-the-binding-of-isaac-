@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Speedometer</name>
+    <id>3773201484</id>
+    <description>Display current player movement speed as a number and gauge</description>
+    <version>1.0</version>
+    <directory>Speedometer</directory>
+</metadata>

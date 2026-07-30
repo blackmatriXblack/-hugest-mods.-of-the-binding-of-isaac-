@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyReverseControls</name>
+    <id>3773200133</id>
+    <description>When enemies are within 200 range, player velocity is inverted by 0.5x each frame.</description>
+    <version>1.0</version>
+    <directory>EnemyReverseControls</directory>
+</metadata>

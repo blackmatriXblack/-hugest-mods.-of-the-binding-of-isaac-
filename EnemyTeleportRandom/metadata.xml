@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyTeleportRandom</name>
+    <id>3773200129</id>
+    <description>Every 15 seconds, 1 random enemy teleports to a random position in the room.</description>
+    <version>1.0</version>
+    <directory>EnemyTeleportRandom</directory>
+</metadata>

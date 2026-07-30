@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PostNPCUpdateHaste</name>
+    <id>3773201092</id>
+    <description>MC_POST_NPC_UPDATE — Enemies gain 5% speed per minute alive (cap at 200%). Tracks spawn time per entity.</description>
+    <version>1.0</version>
+    <directory>PostNPCUpdateHaste</directory>
+</metadata>

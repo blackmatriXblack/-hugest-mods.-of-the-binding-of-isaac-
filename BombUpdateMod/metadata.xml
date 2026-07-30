@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BombUpdateMod</name>
+    <id>3773200101</id>
+    <directory>BombUpdateMod</directory>
+    <description>Double bomb explosion radius</description>
+    <version>1.0</version>
+    <visibility>1</visibility>
+</metadata>

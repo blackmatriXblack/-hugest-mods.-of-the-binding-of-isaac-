@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>NoFlightChallenge</name>
+    <id>3773201331</id>
+    <description>All flight items are converted to alternative items (no flying allowed)</description>
+    <version>1.0</version>
+    <directory>NoFlightChallenge</directory>
+</metadata>

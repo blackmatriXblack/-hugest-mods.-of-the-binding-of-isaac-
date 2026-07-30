@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>GreedierModeEnhance</name>
+    <id>3773201162</id>
+    <description>Greedier mode — waves are 50% larger, but enemies drop +50% coins. MC_POST_ENTITY_SPAWN.</description>
+    <version>1.0</version>
+    <directory>GreedierModeEnhance</directory>
+</metadata>

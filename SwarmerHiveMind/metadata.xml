@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>SwarmerHiveMind</name>
+    <id>3773201203</id>
+    <description>Swarmer spawns 3 extra attack flies every 10 seconds</description>
+    <version>1.0</version>
+    <directory>SwarmerHiveMind</directory>
+</metadata>

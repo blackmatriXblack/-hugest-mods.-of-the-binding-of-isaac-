@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BerserkStartBuff</name>
+    <id>3773201107</id>
+    <description>MC_PRE_BERSERK — On berserk start (eg. Berserk card), player also gains flight and spectral tears for the duration. Uses cache flags.</description>
+    <version>1.0</version>
+    <directory>BerserkStartBuff</directory>
+</metadata>

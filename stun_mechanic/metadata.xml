@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Stun Mechanic</name>
+    <id>3773202239</id>
+    <description>Consecutive hits on the same enemy within 1 second stuns them for 2 seconds</description>
+    <version>1.0</version>
+    <directory>stun_mechanic</directory>
+</metadata>

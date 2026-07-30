@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PreCurseEvalBlock</name>
+    <id>3773201391</id>
+    <description>25% chance to block one random curse each floor using MC_PRE_CURSE_EVAL.</description>
+    <version>1.0</version>
+    <directory>PreCurseEvalBlock</directory>
+</metadata>

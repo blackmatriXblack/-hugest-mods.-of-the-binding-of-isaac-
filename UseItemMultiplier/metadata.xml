@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>UseItemMultiplier</name>
+    <id>3773201075</id>
+    <description>Spawn a copy of charge bar as visual feedback on item use, plus temporary +1 damage.</description>
+    <version>1.0</version>
+    <directory>UseItemMultiplier</directory>
+</metadata>

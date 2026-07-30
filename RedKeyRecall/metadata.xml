@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Red Key Recall</name>
+    <id>3773202127</id>
+    <description>Red Key reveals the room type behind walls before opening them</description>
+    <version>1.0</version>
+    <directory>RedKeyRecall</directory>
+</metadata>

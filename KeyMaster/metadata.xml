@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>KeyMaster</name>
+    <id>3773201124</id>
+    <description>Key pickups sometimes upgrade to golden keys (open any door).</description>
+    <version>1.0</version>
+    <directory>KeyMaster</directory>
+</metadata>

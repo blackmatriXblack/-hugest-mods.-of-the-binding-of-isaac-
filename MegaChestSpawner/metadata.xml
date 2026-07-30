@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>MegaChestSpawner</name>
+    <id>3773201157</id>
+    <description>Mega chests spawn 2 extra pickups when opened. Detect mega chest entity opening.</description>
+    <version>1.0</version>
+    <directory>MegaChestSpawner</directory>
+</metadata>

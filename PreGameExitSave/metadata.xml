@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PreGameExitSave</name>
+    <id>3773201389</id>
+    <description>Auto-saves current room and floor to persistent data before exiting using MC_PRE_GAME_EXIT.</description>
+    <version>1.0</version>
+    <directory>PreGameExitSave</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PickupCollisionVacuum</name>
+    <id>3773201087</id>
+    <description>Pickups within 150 range get pulled toward player (magnetic).</description>
+    <version>1.0</version>
+    <directory>PickupCollisionVacuum</directory>
+</metadata>

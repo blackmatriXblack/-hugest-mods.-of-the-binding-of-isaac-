@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>No Pickups Challenge</name>
+    <id>3773202159</id>
+    <description>All pickups converted to nothing — only items can be collected</description>
+    <version>1.0</version>
+    <directory>NoPickupsChallenge</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>FungusTransformation</name>
+    <id>3773201303</id>
+    <description>Fun Guy transformation drops a mushroom pickup per room clear</description>
+    <version>1.0</version>
+    <directory>FungusTransformation</directory>
+</metadata>

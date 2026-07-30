@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Elemental Damage</name>
+    <id>3773202217</id>
+    <description>Fire tears deal +100% damage to frozen enemies and ice tears deal +100% damage to burning enemies</description>
+    <version>1.0</version>
+    <directory>elemental_damage</directory>
+</metadata>

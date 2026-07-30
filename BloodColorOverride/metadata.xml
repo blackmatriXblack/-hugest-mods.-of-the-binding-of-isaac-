@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BloodColorOverride</name>
+    <id>3773200144</id>
+    <description>Randomizes enemy blood/body color among 6 preset colors on spawn.</description>
+    <version>1.0</version>
+    <directory>BloodColorOverride</directory>
+</metadata>

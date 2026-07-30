@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>MinesExplosive</name>
+    <id>3773201314</id>
+    <description>All enemies on Mines and Ashpit floors have +15% chance to drop a bomb on death</description>
+    <version>1.0</version>
+    <directory>MinesExplosive</directory>
+</metadata>

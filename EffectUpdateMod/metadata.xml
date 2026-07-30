@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EffectUpdateMod</name>
+    <id>3773200100</id>
+    <directory>EffectUpdateMod</directory>
+    <description>Track and display active effect count in room</description>
+    <version>1.0</version>
+    <visibility>1</visibility>
+</metadata>

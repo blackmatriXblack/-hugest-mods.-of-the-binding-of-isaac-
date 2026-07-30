@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BedroomHeal</name>
+    <id>3773201323</id>
+    <description>Entering any Bedroom fully restores the player's health to full</description>
+    <version>1.0</version>
+    <directory>BedroomHeal</directory>
+</metadata>

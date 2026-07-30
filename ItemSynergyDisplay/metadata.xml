@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ItemSynergyDisplay</name>
+    <id>3773201472</id>
+    <description>Show a list of active item synergies and transformations on player</description>
+    <version>1.0</version>
+    <directory>ItemSynergyDisplay</directory>
+</metadata>

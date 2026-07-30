@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <id>3773200069</id>
+  <name>ChestExplosion</name>
+  <directory>ChestExplosion</directory>
+  <description>20% chance to spawn a golden chest on enemy kill.</description>
+  <version>1.0</version>
+</metadata>

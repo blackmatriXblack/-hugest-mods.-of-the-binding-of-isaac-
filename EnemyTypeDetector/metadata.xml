@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyTypeDetector</name>
+    <id>3773201141</id>
+    <description>When looking at enemy (near aim direction), display their Type/Variant/SubType.</description>
+    <version>1.0</version>
+    <directory>EnemyTypeDetector</directory>
+</metadata>

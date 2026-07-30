@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Room Clear Bonus</name>
+    <directory>roomclearbonus</directory>
+    <id>37732000011</id>
+    <description>When a room is cleared, spawn a bonus: 30% treasure pedestal, 30% card, 20% trinket, 20% 3 random pickups.</description>
+    <version>1.0</version>
+    <visibility>public</visibility>
+</metadata>

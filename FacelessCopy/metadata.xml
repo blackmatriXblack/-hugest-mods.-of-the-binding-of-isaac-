@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Faceless Mirror Shot</name>
+    <id>3773201521</id>
+    <description>Faceless copies the player's last fired tear direction and fires it back.</description>
+    <version>1.0</version>
+    <directory>FacelessCopy</directory>
+</metadata>

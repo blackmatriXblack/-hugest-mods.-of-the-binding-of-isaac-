@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>TaintedLazarusSwitch</name>
+    <id>3773201160</id>
+    <description>Tainted Lazarus auto-switches every 20 seconds instead of per-room. MC_POST_PLAYER_UPDATE.</description>
+    <version>1.0</version>
+    <directory>TaintedLazarusSwitch</directory>
+</metadata>

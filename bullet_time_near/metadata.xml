@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Bullet Time Near</name>
+    <id>3773202243</id>
+    <description>Enemy projectiles slow down by 50% when within 80 pixels of the player</description>
+    <version>1.0</version>
+    <directory>bullet_time_near</directory>
+</metadata>

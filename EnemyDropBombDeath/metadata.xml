@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyDropBombDeath</name>
+    <id>3773200126</id>
+    <description>All killed enemies drop a bomb at their death position.</description>
+    <version>1.0</version>
+    <directory>EnemyDropBombDeath</directory>
+</metadata>

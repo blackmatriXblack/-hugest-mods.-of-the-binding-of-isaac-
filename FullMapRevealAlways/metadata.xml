@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Full Map Reveal Always</name>
+    <directory>fullmaprevealalways</directory>
+    <id>3773200002</id>
+    <description>Always see the full floor map including all secret rooms and special rooms. Compass effect built in.</description>
+    <version>1.0</version>
+    <visibility>public</visibility>
+</metadata>

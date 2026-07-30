@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Backstab Damage</name>
+    <id>3773202235</id>
+    <description>Tears hitting enemies from behind deal 2x damage</description>
+    <version>1.0</version>
+    <directory>backstab_damage</directory>
+</metadata>

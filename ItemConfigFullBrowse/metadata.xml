@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ItemConfigFullBrowse</name>
+    <id>3773201134</id>
+    <description>Press Z to cycle through all items showing name/ID/quality. Arrow keys to navigate.</description>
+    <version>1.0</version>
+    <directory>ItemConfigFullBrowse</directory>
+</metadata>

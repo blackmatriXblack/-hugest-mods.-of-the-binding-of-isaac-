@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Reap Creep Clone</name>
+    <id>3773202107</id>
+    <description>Reap Creep clones itself at 25% HP — clone has 50% original HP.</description>
+    <version>1.0</version>
+    <directory>ReapCreepClone</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Health Decay</name>
+    <id>3773202167</id>
+    <description>Player loses 1 heart container every 3 minutes</description>
+    <version>1.0</version>
+    <directory>HealthDecay</directory>
+</metadata>

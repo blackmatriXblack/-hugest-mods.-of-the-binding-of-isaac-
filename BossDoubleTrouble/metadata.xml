@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BossDoubleTrouble</name>
+    <id>3773200114</id>
+    <description>In boss rooms, a duplicate of the boss is spawned offset by Vector(60,0).</description>
+    <version>1.0</version>
+    <directory>BossDoubleTrouble</directory>
+</metadata>

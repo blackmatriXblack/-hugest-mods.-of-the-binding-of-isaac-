@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Nightwatch Shadow Traps</name>
+    <id>3773201520</id>
+    <description>Nightwatch enemy places invisible shadow traps that fear the player on step.</description>
+    <version>1.0</version>
+    <directory>NightwatchTrap</directory>
+</metadata>

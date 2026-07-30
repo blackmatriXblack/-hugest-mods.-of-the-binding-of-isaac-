@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>SwarmDuplication</name>
+    <id>3773202071</id>
+    <description>Swarm enemy duplicates itself once every 15 seconds (max 4 copies)</description>
+    <version>1.0</version>
+    <directory>SwarmDuplication</directory>
+</metadata>

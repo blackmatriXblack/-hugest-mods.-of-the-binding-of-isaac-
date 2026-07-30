@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EntityFlagInspector</name>
+    <id>3773200145</id>
+    <description>Hold Spacebar to display the flags of the nearest enemy on the HUD.</description>
+    <version>1.0</version>
+    <directory>EntityFlagInspector</directory>
+</metadata>

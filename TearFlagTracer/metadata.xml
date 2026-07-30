@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>TearFlagTracer</name>
+    <id>3773201434</id>
+    <description>Display all current tear flags as text on screen in real-time.</description>
+    <version>1.0</version>
+    <directory>TearFlagTracer</directory>
+</metadata>

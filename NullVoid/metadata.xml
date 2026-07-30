@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>NullVoid</name>
+    <id>3773201213</id>
+    <description>Null steals nearby pickups and converts them to homing shots</description>
+    <version>1.0</version>
+    <directory>NullVoid</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Enemy Exchange</name>
+    <id>3773202162</id>
+    <description>Killing one enemy type spawns a different enemy type in its place</description>
+    <version>1.0</version>
+    <directory>EnemyExchange</directory>
+</metadata>

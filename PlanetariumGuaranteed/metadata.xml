@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PlanetariumGuaranteed</name>
+    <id>3773201119</id>
+    <description>Planetariums always appear after skipping 1 treasure room (instead of needing multiple).</description>
+    <version>1.0</version>
+    <directory>PlanetariumGuaranteed</directory>
+</metadata>

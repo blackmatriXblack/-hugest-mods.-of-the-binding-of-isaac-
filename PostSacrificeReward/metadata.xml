@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PostSacrificeReward</name>
+    <id>3773201104</id>
+    <description>MC_POST_SACRIFICE — Each sacrifice spawns a random coin/heart/bomb in addition to normal rewards.</description>
+    <version>1.0</version>
+    <directory>PostSacrificeReward</directory>
+</metadata>

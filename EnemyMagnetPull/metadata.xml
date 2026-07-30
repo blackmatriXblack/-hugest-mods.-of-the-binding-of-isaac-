@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyMagnetPull</name>
+    <id>3773200112</id>
+    <description>All enemies within 300 range are slowly pulled toward the player.</description>
+    <version>1.0</version>
+    <directory>EnemyMagnetPull</directory>
+</metadata>

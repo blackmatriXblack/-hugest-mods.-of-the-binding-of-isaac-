@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>SpeedrunTimerDisplay</name>
+    <id>3773201326</id>
+    <description>Shows a real-time speedrun timer on screen during runs</description>
+    <version>1.0</version>
+    <directory>SpeedrunTimerDisplay</directory>
+</metadata>

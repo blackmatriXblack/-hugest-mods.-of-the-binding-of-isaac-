@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyRageMode</name>
+    <id>3773200104</id>
+    <description>All spawned enemies are aggressive (EntityFlag 1) and have double HitPoints.</description>
+    <version>1.0</version>
+    <directory>EnemyRageMode</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PreNPCUpdateMod</name>
+    <id>3773201091</id>
+    <description>MC_PRE_NPC_UPDATE — Enemies randomly change direction every 3 seconds. Custom AI overrides default update.</description>
+    <version>1.0</version>
+    <directory>PreNPCUpdateMod</directory>
+</metadata>

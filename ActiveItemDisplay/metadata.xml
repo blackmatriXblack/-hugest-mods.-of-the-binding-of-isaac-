@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ActiveItemDisplay</name>
+    <id>3773200083</id>
+    <directory>ActiveItemDisplay</directory>
+    <description>Display active item ID and name on screen</description>
+    <version>1.0</version>
+    <visibility>1</visibility>
+</metadata>

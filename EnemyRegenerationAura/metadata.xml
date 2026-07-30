@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyRegenerationAura</name>
+    <id>3773200128</id>
+    <description>Every 2 seconds, all enemies in the room heal 2 HP.</description>
+    <version>1.0</version>
+    <directory>EnemyRegenerationAura</directory>
+</metadata>

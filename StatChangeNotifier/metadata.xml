@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>StatChangeNotifier</name>
+    <id>3773201479</id>
+    <description>Briefly flash stat change indicators on screen when stats change</description>
+    <version>1.0</version>
+    <directory>StatChangeNotifier</directory>
+</metadata>

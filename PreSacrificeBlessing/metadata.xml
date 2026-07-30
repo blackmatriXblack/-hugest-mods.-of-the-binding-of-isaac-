@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PreSacrificeBlessing</name>
+    <id>3773201103</id>
+    <description>MC_PRE_SACRIFICE — 25% chance sacrifice room spikes don't consume health. Return false to cancel.</description>
+    <version>1.0</version>
+    <directory>PreSacrificeBlessing</directory>
+</metadata>

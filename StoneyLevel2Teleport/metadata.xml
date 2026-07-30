@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>StoneyLevel2Teleport</name>
+    <id>3773202069</id>
+    <description>Level 2 Stoney teleports to player position when emerging</description>
+    <version>1.0</version>
+    <directory>StoneyLevel2Teleport</directory>
+</metadata>

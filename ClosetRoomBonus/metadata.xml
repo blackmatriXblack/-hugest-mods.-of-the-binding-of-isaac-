@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ClosetRoomBonus</name>
+    <id>3773201321</id>
+    <description>Small closet rooms always contain either a trinket or a card pickup for the player</description>
+    <version>1.0</version>
+    <directory>ClosetRoomBonus</directory>
+</metadata>

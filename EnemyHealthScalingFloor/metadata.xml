@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyHealthScalingFloor</name>
+    <id>3773200121</id>
+    <description>Enemy HitPoints scale with floor chapter — 50% more per chapter.</description>
+    <version>1.0</version>
+    <directory>EnemyHealthScalingFloor</directory>
+</metadata>

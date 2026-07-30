@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>TaintedIsaacSwap</name>
+    <id>3773201398</id>
+    <description>Tainted Isaac: Items cycle out every 2 floors instead of 1, giving more room for builds.</description>
+    <version>1.0</version>
+    <directory>TaintedIsaacSwap</directory>
+</metadata>

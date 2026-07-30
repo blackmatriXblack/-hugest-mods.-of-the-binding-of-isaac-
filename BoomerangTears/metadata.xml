@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BoomerangTears</name>
+    <id>3773201436</id>
+    <description>Tears boomerang back toward the player after 200px, hitting enemies on return.</description>
+    <version>1.0</version>
+    <directory>BoomerangTears</directory>
+</metadata>

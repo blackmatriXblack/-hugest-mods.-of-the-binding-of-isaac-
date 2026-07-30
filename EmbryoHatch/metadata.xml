@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EmbryoHatch</name>
+    <id>3773202028</id>
+    <description>Embryo hatches into a random medium enemy when room is 50% cleared</description>
+    <version>1.0</version>
+    <directory>EmbryoHatch</directory>
+</metadata>

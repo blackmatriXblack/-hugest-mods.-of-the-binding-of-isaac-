@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>RandomFloatEvent</name>
+    <id>3773200093</id>
+    <directory>RandomFloatEvent</directory>
+    <description>0.1% chance per frame to spawn a random item</description>
+    <version>1.0</version>
+    <visibility>1</visibility>
+</metadata>

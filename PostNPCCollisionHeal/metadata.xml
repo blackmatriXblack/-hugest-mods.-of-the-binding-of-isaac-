@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PostNPCCollisionHeal</name>
+    <id>3773201382</id>
+    <description>10% chance to spawn a half red heart after NPC hits the player, using MC_POST_NPC_COLLISION.</description>
+    <version>1.0</version>
+    <directory>PostNPCCollisionHeal</directory>
+</metadata>

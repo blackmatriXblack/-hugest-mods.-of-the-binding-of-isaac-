@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PickupInitTracker</name>
+    <id>3773200094</id>
+    <directory>PickupInitTracker</directory>
+    <description>Track and display pickup creation count per floor</description>
+    <version>1.0</version>
+    <visibility>1</visibility>
+</metadata>

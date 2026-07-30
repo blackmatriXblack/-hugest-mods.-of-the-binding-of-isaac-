@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyScaleRandomizer</name>
+    <id>3773200118</id>
+    <description>Randomizes enemy scale between 0.5 and 2.0 on spawn.</description>
+    <version>1.0</version>
+    <directory>EnemyScaleRandomizer</directory>
+</metadata>

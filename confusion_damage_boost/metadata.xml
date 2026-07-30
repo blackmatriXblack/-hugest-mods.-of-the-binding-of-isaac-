@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Confusion Damage Boost</name>
+    <id>3773202223</id>
+    <description>Confused enemies deal 2x damage to other enemies but normal damage to the player</description>
+    <version>1.0</version>
+    <directory>confusion_damage_boost</directory>
+</metadata>

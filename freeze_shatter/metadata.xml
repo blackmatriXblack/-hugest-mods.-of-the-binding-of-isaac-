@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Freeze Shatter</name>
+    <id>3773202224</id>
+    <description>Frozen enemies shatter on death dealing AOE damage to nearby enemies</description>
+    <version>1.0</version>
+    <directory>freeze_shatter</directory>
+</metadata>

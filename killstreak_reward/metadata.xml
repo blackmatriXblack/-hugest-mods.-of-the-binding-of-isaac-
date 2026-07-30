@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Killstreak Reward</name>
+    <id>3773202231</id>
+    <description>Every 25 kills spawns a random pickup; killstreak resets on taking damage</description>
+    <version>1.0</version>
+    <directory>killstreak_reward</directory>
+</metadata>

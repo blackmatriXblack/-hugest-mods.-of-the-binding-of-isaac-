@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ModVersionChecker</name>
+    <id>3773201503</id>
+    <description>Check and display if mods have updates — reads version from metadata</description>
+    <version>1.0</version>
+    <directory>ModVersionChecker</directory>
+</metadata>

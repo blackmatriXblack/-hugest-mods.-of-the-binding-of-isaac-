@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Sticky Floor</name>
+    <id>3773202177</id>
+    <description>Player moves 50% slower but fires tears 50% faster as tradeoff</description>
+    <version>1.0</version>
+    <directory>StickyFloor</directory>
+</metadata>

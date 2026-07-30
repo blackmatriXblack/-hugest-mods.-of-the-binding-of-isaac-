@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ModConfigHotReload</name>
+    <id>3773201495</id>
+    <description>Press F5 to reload all game data without restarting</description>
+    <version>1.0</version>
+    <directory>ModConfigHotReload</directory>
+</metadata>

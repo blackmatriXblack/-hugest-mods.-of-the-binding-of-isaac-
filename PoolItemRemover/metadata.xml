@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PoolItemRemover</name>
+    <id>3773200091</id>
+    <directory>PoolItemRemover</directory>
+    <description>Remove Magic Mushroom from all item pools each floor</description>
+    <version>1.0</version>
+    <visibility>1</visibility>
+</metadata>

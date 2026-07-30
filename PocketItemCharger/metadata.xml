@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PocketItemCharger</name>
+    <id>3773201154</id>
+    <description>Pocket active items slowly charge over time (1 charge per 30 seconds). MC_POST_PLAYER_UPDATE.</description>
+    <version>1.0</version>
+    <directory>PocketItemCharger</directory>
+</metadata>

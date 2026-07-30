@@ -1,0 +1,9 @@
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;metadata&gt;
+  &lt;name&gt;GameRoomCount&lt;/name&gt;
+  &lt;directory&gt;GameRoomCount&lt;/directory&gt;
+  &lt;id&gt;3773200171&lt;/id&gt;
+  &lt;description&gt;Shows total room count on HUD&lt;/description&gt;
+  &lt;version&gt;1.0&lt;/version&gt;
+  &lt;visibility&gt;public&lt;/visibility&gt;
+&lt;/metadata&gt;

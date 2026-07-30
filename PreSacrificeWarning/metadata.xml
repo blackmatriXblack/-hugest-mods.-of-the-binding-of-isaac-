@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PreSacrificeWarning</name>
+    <id>3773201386</id>
+    <description>Displays sacrifice number/tier before taking sacrifice room damage using MC_PRE_SACRIFICE.</description>
+    <version>1.0</version>
+    <directory>PreSacrificeWarning</directory>
+</metadata>

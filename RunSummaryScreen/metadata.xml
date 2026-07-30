@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>RunSummaryScreen</name>
+    <id>3773201487</id>
+    <description>Show a summary overlay on pause screen with total run statistics</description>
+    <version>1.0</version>
+    <directory>RunSummaryScreen</directory>
+</metadata>

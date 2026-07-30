@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Boss Relay</name>
+    <id>3773202155</id>
+    <description>After beating a boss a harder boss immediately spawns in the same room</description>
+    <version>1.0</version>
+    <directory>BossRelay</directory>
+</metadata>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Enemy Loot Pinata</name>
+    <directory>enemylootpinata</directory>
+    <id>3773200135</id>
+    <description>Enemies drop 5x more loot! Coins, bombs, keys, and hearts rain from every kill.</description>
+    <version>1.0</version>
+    <visibility>public</visibility>
+</metadata>

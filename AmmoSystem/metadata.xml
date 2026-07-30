@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Ammo System</name>
+    <id>3773202154</id>
+    <description>Maximum 100 tears per room — after that tear delay becomes 60</description>
+    <version>1.0</version>
+    <directory>AmmoSystem</directory>
+</metadata>

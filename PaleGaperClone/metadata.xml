@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PaleGaperClone</name>
+    <id>3773201220</id>
+    <description>Pale Gaper spawns a ghostly half-HP clone of itself every 15 seconds</description>
+    <version>1.0</version>
+    <directory>PaleGaperClone</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyHighlight</name>
+    <id>3773202206</id>
+    <description>Low HP enemies glow red, nearing-death enemies pulse ominously!</description>
+    <version>1.0</version>
+    <directory>EnemyHighlight</directory>
+</metadata>

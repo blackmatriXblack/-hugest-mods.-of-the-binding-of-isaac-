@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>TriggerClearReward</name>
+    <id>3773201106</id>
+    <description>MC_POST_TRIGGER_CLEAR — 15% chance room clear spawns a bonus item pedestal from the room's item pool.</description>
+    <version>1.0</version>
+    <directory>TriggerClearReward</directory>
+</metadata>

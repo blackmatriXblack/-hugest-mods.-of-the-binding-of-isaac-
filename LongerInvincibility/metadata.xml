@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Longer Invincibility</name>
+    <directory>longerinvincibility</directory>
+    <id>37732000016</id>
+    <description>Extends invincibility frames after taking damage. Capped at 300 frames (10 seconds).</description>
+    <version>1.0</version>
+    <visibility>public</visibility>
+</metadata>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Damage Multiplier</name>
+    <directory>damagemultiplier</directory>
+    <id>3773200006</id>
+    <description>Multiplies your damage by 10x. Destroy everything in your path!</description>
+    <version>1.0</version>
+    <visibility>public</visibility>
+</metadata>

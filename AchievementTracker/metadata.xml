@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>AchievementTracker</name>
+    <id>3773201132</id>
+    <description>Display recent achievement progress on HUD. Check achievement IDs against completion.</description>
+    <version>1.0</version>
+    <directory>AchievementTracker</directory>
+</metadata>

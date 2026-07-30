@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Crown of Light Active</name>
+    <id>3773202111</id>
+    <description>Crown of Light buff stays active for 5 seconds after taking damage</description>
+    <version>1.0</version>
+    <directory>CrownOfLightActive</directory>
+</metadata>

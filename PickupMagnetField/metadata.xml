@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PickupMagnetField</name>
+    <id>3773201122</id>
+    <description>All pickups in room slowly drift toward player at speed 0.5.</description>
+    <version>1.0</version>
+    <directory>PickupMagnetField</directory>
+</metadata>

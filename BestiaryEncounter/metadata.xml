@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BestiaryEncounter</name>
+    <id>3773201493</id>
+    <description>Mark every enemy type encountered as discovered in persistent mod data</description>
+    <version>1.0</version>
+    <directory>BestiaryEncounter</directory>
+</metadata>

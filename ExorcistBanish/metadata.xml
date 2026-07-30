@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ExorcistBanish</name>
+    <id>3773202029</id>
+    <description>Exorcist attempts to banish player's active item temporarily disabling it</description>
+    <version>1.0</version>
+    <directory>ExorcistBanish</directory>
+</metadata>

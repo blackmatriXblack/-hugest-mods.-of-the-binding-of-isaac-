@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PlayerUpdateAura</name>
+    <id>3773201079</id>
+    <description>Player has a damaging aura: enemies within 60 range take 0.5 damage per tick.</description>
+    <version>1.0</version>
+    <directory>PlayerUpdateAura</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>LeechDrain</name>
+    <id>3773201051</id>
+    <description>Leeches (Type=47) drain 1 full heart of damage on contact instead of half a heart.</description>
+    <version>1.0</version>
+    <directory>LeechDrain</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Item Roulette</name>
+    <id>3773202179</id>
+    <description>Every item pedestal cycles through 5 random items rapidly — time pickup precisely!</description>
+    <version>1.0</version>
+    <directory>ItemRoulette</directory>
+</metadata>

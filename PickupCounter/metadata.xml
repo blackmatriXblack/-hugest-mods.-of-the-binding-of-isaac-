@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PickupCounter</name>
+    <id>3773201475</id>
+    <description>Total pickups collected this run displayed as icons with counts</description>
+    <version>1.0</version>
+    <directory>PickupCounter</directory>
+</metadata>

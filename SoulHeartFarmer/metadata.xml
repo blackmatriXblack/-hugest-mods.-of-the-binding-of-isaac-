@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Soul Heart Farmer</name>
+    <directory>soulheartfarmer</directory>
+    <id>3773200050</id>
+    <description>Every enemy you kill drops a Soul Heart. Infinite survivability!</description>
+    <version>1.0</version>
+    <visibility>public</visibility>
+</metadata>

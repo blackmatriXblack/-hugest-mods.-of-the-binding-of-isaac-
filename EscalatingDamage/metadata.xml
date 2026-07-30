@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Escalating Damage</name>
+    <id>3773202152</id>
+    <description>Player damage increases +10% per room cleared but HP decreases 1% per room</description>
+    <version>1.0</version>
+    <directory>EscalatingDamage</directory>
+</metadata>

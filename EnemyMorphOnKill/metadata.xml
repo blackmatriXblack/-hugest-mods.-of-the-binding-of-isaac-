@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyMorphOnKill</name>
+    <id>3773200123</id>
+    <description>20% chance when an enemy dies, a stronger type spawns at its position.</description>
+    <version>1.0</version>
+    <directory>EnemyMorphOnKill</directory>
+</metadata>

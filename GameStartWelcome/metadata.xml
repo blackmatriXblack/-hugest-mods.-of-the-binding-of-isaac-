@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>GameStartWelcome</name>
+    <id>3773201073</id>
+    <description>Give player a random trinket and full mapping at game start.</description>
+    <version>1.0</version>
+    <directory>GameStartWelcome</directory>
+</metadata>

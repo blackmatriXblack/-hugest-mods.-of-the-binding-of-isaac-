@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>EnemyShrinkOnHit</name>
+    <id>3773200105</id>
+    <description>Enemies shrink for 300 frames when they take damage.</description>
+    <version>1.0</version>
+    <directory>EnemyShrinkOnHit</directory>
+</metadata>

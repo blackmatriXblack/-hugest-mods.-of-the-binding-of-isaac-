@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>HeadlessHorsemanChase</name>
+    <id>3773201072</id>
+    <description>Headless Horseman head chases the player independently at 2x speed</description>
+    <version>1.0</version>
+    <directory>HeadlessHorsemanChase</directory>
+</metadata>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ActiveItemUseLogger</name>
+    <id>3773200096</id>
+    <directory>ActiveItemUseLogger</directory>
+    <description>Log active item usage and effect completion</description>
+    <version>1.0</version>
+    <visibility>1</visibility>
+</metadata>

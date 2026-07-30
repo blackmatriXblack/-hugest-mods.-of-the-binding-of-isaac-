@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PlayerChangeTypeForm</name>
+    <id>3773201101</id>
+    <description>MC_POST_PLAYER_CHANGE_TYPE — When transforming (eg. Guppy), gain a temporary damage shield for 5 seconds.</description>
+    <version>1.0</version>
+    <directory>PlayerChangeTypeForm</directory>
+</metadata>

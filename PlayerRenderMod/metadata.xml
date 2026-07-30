@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PlayerRenderMod</name>
+    <id>3773200102</id>
+    <directory>PlayerRenderMod</directory>
+    <description>Draw text around the player using player render callback</description>
+    <version>1.0</version>
+    <visibility>1</visibility>
+</metadata>

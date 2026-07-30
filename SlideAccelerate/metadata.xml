@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>SlideAccelerate</name>
+    <id>3773201217</id>
+    <description>Slide enemy accelerates over time and leaves a damaging creep trail at max speed</description>
+    <version>1.0</version>
+    <directory>SlideAccelerate</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PostHUDRenderStats</name>
+    <id>3773201097</id>
+    <description>MC_POST_HUD_RENDER — Display current room's enemy count, total kills, and DPS estimate as floating text.</description>
+    <version>1.0</version>
+    <directory>PostHUDRenderStats</directory>
+</metadata>

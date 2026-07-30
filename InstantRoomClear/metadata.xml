@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Instant Room Clear</name>
+    <directory>instantroomclear</directory>
+    <id>37732000017</id>
+    <description>Kills all non-boss enemies immediately when you enter any room.</description>
+    <version>1.0</version>
+    <visibility>public</visibility>
+</metadata>

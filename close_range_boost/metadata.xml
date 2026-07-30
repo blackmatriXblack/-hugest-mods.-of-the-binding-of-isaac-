@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Close Range Boost</name>
+    <id>3773202238</id>
+    <description>Tears within 100 pixels of the player deal +30% damage</description>
+    <version>1.0</version>
+    <directory>close_range_boost</directory>
+</metadata>

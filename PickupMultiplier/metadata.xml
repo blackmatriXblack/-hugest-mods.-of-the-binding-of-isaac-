@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Pickup Multiplier</name>
+    <directory>pickupmultiplier</directory>
+    <id>37732000018</id>
+    <description>Auto-collects ALL pickup types (hearts, coins, bombs, keys, etc.) within 150 radius of the player.</description>
+    <version>1.0</version>
+    <visibility>public</visibility>
+</metadata>

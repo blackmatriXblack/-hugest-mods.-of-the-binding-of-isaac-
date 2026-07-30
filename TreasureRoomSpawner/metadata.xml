@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <id>3773200055</id>
+  <name>TreasureRoomSpawner</name>
+  <directory>TreasureRoomSpawner</directory>
+  <description>Spawns 3 extra pedestal items in treasure rooms.</description>
+  <version>1.0</version>
+</metadata>

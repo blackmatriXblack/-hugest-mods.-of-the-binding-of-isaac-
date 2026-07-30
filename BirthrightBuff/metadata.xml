@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BirthrightBuff</name>
+    <id>3773201153</id>
+    <description>Birthright effect is 2x stronger for all characters. MC_POST_PEFFECT_UPDATE.</description>
+    <version>1.0</version>
+    <directory>BirthrightBuff</directory>
+</metadata>

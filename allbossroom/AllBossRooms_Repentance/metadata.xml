@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>All Boss Rooms</name>
+    <directory>allbossrooms_repentance</directory>
+    <id>3773197401</id>
+    <description>Every room is a boss arena! 90+ bosses from all Isaac versions will hunt you down. Are you ready?BOSS AND BOSS</description>
+    <version>1.1</version>
+    <visibility>public</visibility>
+    <tag id="Lua"/>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>RoomRecord</name>
+    <id>3773201485</id>
+    <description>Display slowest and fastest room clear times for current floor</description>
+    <version>1.0</version>
+    <directory>RoomRecord</directory>
+</metadata>

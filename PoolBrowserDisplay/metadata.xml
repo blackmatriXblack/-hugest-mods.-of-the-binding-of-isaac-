@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PoolBrowserDisplay</name>
+    <id>3773200092</id>
+    <directory>PoolBrowserDisplay</directory>
+    <description>Display first 10 items in treasure pool on new room</description>
+    <version>1.0</version>
+    <visibility>1</visibility>
+</metadata>

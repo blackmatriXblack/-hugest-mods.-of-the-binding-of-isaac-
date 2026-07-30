@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Enemy HP Display</name>
+    <directory>enemyhpdisplay</directory>
+    <id>37732000010</id>
+    <description>Shows enemy HP above them. Color goes from green to red as HP drops.</description>
+    <version>1.0</version>
+    <visibility>public</visibility>
+</metadata>

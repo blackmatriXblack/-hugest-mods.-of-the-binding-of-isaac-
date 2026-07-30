@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Time Slow On Hit</name>
+    <id>3773201348</id>
+    <description>Taking damage slows all enemies for 3 seconds of bullet time!</description>
+    <version>1.0</version>
+    <directory>TimeSlowOnHit</directory>
+</metadata>

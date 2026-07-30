@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ItemCollectionTracker</name>
+    <id>3773200086</id>
+    <directory>ItemCollectionTracker</directory>
+    <description>Track and count unique items collected by the player</description>
+    <version>1.0</version>
+    <visibility>1</visibility>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Item Tax</name>
+    <id>3773202153</id>
+    <description>Picking up items costs coins — 5 for passive, 10 for active items</description>
+    <version>1.0</version>
+    <directory>ItemTax</directory>
+</metadata>

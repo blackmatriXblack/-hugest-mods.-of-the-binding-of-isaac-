@@ -1,0 +1,9 @@
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;metadata&gt;
+  &lt;name&gt;TearPoisonChance&lt;/name&gt;
+  &lt;directory&gt;TearPoisonChance&lt;/directory&gt;
+  &lt;id&gt;3773200156&lt;/id&gt;
+  &lt;description&gt;Every tear poisons (100% chance)&lt;/description&gt;
+  &lt;version&gt;1.0&lt;/version&gt;
+  &lt;visibility&gt;public&lt;/visibility&gt;
+&lt;/metadata&gt;

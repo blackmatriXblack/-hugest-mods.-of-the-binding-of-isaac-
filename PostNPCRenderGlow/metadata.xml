@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PostNPCRenderGlow</name>
+    <id>3773201093</id>
+    <description>MC_POST_NPC_RENDER — Enemies below 30% HP glow red. Uses entity:SetColor in render callback.</description>
+    <version>1.0</version>
+    <directory>PostNPCRenderGlow</directory>
+</metadata>

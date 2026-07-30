@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>GridCollisionTrap</name>
+    <id>3773201089</id>
+    <description>Walking over spikes has 30% chance to NOT trigger.</description>
+    <version>1.0</version>
+    <directory>GridCollisionTrap</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ParaBiteLeech</name>
+    <id>3773201041</id>
+    <description>Para-Bites (Type=52, Variant=1) heal from tear hits instead of taking damage, making them much harder to kill.</description>
+    <version>1.0</version>
+    <directory>ParaBiteLeech</directory>
+</metadata>

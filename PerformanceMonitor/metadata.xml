@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PerformanceMonitor</name>
+    <id>3773201505</id>
+    <description>Show FPS, entity count, memory usage overlay — toggle with F12</description>
+    <version>1.0</version>
+    <directory>PerformanceMonitor</directory>
+</metadata>

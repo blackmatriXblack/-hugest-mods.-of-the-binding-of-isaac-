@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Timed Rooms</name>
+    <id>3773202151</id>
+    <description>Each room has a 30-second timer — doors lock and enemies double if time runs out</description>
+    <version>1.0</version>
+    <directory>TimedRooms</directory>
+</metadata>

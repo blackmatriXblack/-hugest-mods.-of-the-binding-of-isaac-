@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PlayerTypeDisplay</name>
+    <id>3773200084</id>
+    <directory>PlayerTypeDisplay</directory>
+    <description>Display current player character type on HUD</description>
+    <version>1.0</version>
+    <visibility>1</visibility>
+</metadata>

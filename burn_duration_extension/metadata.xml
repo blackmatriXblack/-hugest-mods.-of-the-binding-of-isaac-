@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Burn Duration Extension</name>
+    <id>3773202220</id>
+    <description>Burn duration extended by 2 seconds if enemy is already burning</description>
+    <version>1.0</version>
+    <directory>burn_duration_extension</directory>
+</metadata>

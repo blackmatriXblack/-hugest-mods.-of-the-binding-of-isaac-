@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>SeedDisplay</name>
+    <id>3773200143</id>
+    <description>Displays the current run seed as a hex string on the HUD.</description>
+    <version>1.0</version>
+    <directory>SeedDisplay</directory>
+</metadata>

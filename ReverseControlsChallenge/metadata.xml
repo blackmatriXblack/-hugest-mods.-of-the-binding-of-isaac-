@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Reverse Controls Challenge</name>
+    <id>3773202149</id>
+    <description>Movement controls are permanently reversed — up is down, left is right</description>
+    <version>1.0</version>
+    <directory>ReverseControlsChallenge</directory>
+</metadata>

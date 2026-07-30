@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Momentum Damage</name>
+    <id>3773202229</id>
+    <description>Player damage scales with movement speed — faster movement means more damage</description>
+    <version>1.0</version>
+    <directory>momentum_damage</directory>
+</metadata>

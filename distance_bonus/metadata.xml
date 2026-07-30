@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Distance Bonus</name>
+    <id>3773202237</id>
+    <description>Tears deal more damage the further they travel, up to +50% at max range</description>
+    <version>1.0</version>
+    <directory>distance_bonus</directory>
+</metadata>

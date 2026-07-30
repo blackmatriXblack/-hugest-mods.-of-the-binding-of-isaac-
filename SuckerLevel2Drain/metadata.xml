@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>SuckerLevel2Drain</name>
+    <id>3773202070</id>
+    <description>Level 2 Sucker drains 2 HP per second when attached and heals self</description>
+    <version>1.0</version>
+    <directory>SuckerLevel2Drain</directory>
+</metadata>

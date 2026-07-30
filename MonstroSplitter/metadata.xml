@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>MonstroSplitter</name>
+    <id>3773201055</id>
+    <description>Monstro splits into 2 mini-Monstros at 50% HP</description>
+    <version>1.0</version>
+    <directory>MonstroSplitter</directory>
+</metadata>

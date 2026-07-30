@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Auto Pickup Radius</name>
+    <directory>autopickupradius</directory>
+    <id>37732000012</id>
+    <description>Coins within 250 radius are automatically teleported to the player and collected.</description>
+    <version>1.0</version>
+    <visibility>public</visibility>
+</metadata>

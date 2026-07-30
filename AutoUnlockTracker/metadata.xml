@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>AutoUnlockTracker</name>
+    <id>3773201491</id>
+    <description>Track which unlocks you've gotten this run in a real-time sidebar overlay</description>
+    <version>1.0</version>
+    <directory>AutoUnlockTracker</directory>
+</metadata>

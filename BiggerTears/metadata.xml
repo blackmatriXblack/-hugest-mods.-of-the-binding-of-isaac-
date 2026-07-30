@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Bigger Tears</name>
+    <directory>biggertears</directory>
+    <id>37732000015</id>
+    <description>Multiplies tear size: TearHeight and TearFallingSpeed x3 for massive tears.</description>
+    <version>1.0</version>
+    <visibility>public</visibility>
+</metadata>

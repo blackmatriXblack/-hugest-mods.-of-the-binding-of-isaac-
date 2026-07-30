@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PostPlayerRenderAura</name>
+    <id>3773201096</id>
+    <description>MC_POST_PLAYER_RENDER — Draw a colored circle around player indicating current HP percentage. Green > 50%, Yellow 25-50%, Red < 25%.</description>
+    <version>1.0</version>
+    <directory>PostPlayerRenderAura</directory>
+</metadata>

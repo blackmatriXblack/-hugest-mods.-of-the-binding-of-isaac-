@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Enemy Drop Pickups</name>
+    <id>3773201349</id>
+    <description>Every enemy killed drops a random pickup!</description>
+    <version>1.0</version>
+    <directory>EnemyDropPickups</directory>
+</metadata>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>PlayerDeathRevenge</name>
+    <id>3773201080</id>
+    <description>On death, explode dealing 200 damage to all enemies in room and spawn Mega troll bomb.</description>
+    <version>1.0</version>
+    <directory>PlayerDeathRevenge</directory>
+</metadata>

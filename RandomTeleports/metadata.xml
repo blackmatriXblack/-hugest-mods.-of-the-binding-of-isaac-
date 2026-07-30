@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Random Teleports</name>
+    <id>3773202158</id>
+    <description>Player randomly teleports to a different room every 45 seconds</description>
+    <version>1.0</version>
+    <directory>RandomTeleports</directory>
+</metadata>

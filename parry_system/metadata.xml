@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Parry System</name>
+    <id>3773202244</id>
+    <description>Press a key with perfect timing within 5 frames of being hit to negate damage</description>
+    <version>1.0</version>
+    <directory>parry_system</directory>
+</metadata>

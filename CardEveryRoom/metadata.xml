@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <id>3773200070</id>
+  <name>CardEveryRoom</name>
+  <directory>CardEveryRoom</directory>
+  <description>Spawns a random card at the center of every room entered.</description>
+  <version>1.0</version>
+</metadata>

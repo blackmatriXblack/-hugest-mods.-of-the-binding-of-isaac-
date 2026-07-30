@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Low Health Warrior</name>
+    <id>3773202230</id>
+    <description>Below 25% HP grants +3 damage, +50% tear rate, and +30% movement speed</description>
+    <version>1.0</version>
+    <directory>low_health_warrior</directory>
+</metadata>

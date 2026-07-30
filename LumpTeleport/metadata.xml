@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>LumpTeleport</name>
+    <id>3773201368</id>
+    <description>Lump enemies randomly teleport to unpredictable positions around the room</description>
+    <version>1.0</version>
+    <directory>LumpTeleport</directory>
+</metadata>

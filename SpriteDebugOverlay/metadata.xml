@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>SpriteDebugOverlay</name>
+    <id>3773201496</id>
+    <description>Press F3 to toggle sprite info overlay — animation frame, sprite sheet, entity data</description>
+    <version>1.0</version>
+    <directory>SpriteDebugOverlay</directory>
+</metadata>

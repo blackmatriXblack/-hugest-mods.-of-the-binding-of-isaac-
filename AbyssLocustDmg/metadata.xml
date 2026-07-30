@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Abyss Locust Damage</name>
+    <id>3773202117</id>
+    <description>Abyss locust damage scales with player's damage stat</description>
+    <version>1.0</version>
+    <directory>AbyssLocustDmg</directory>
+</metadata>

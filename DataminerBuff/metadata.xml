@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Dataminer Buff</name>
+    <id>3773202130</id>
+    <description>Dataminer no longer randomly shuffles stats, only visuals change</description>
+    <version>1.0</version>
+    <directory>DataminerBuff</directory>
+</metadata>
